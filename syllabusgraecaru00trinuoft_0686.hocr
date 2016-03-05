@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./syllabusgraecaru00trinuoft_0686.png"; bbox 0 0 2834 3970; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 251 28 324 62">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 251 28 324 62">
+     <span class='ocr_line' id='line_1_1' title="bbox 251 28 324 62; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 251 58 254 62; x_wconf 77' lang='grc' dir='ltr'><em>ι</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 274 28 324 44; x_wconf 57' lang='lat' dir='ltr'><em>ur</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 70 282 91 293">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 70 282 91 293">
+     <span class='ocr_line' id='line_1_2' title="bbox 70 282 91 293; baseline 0 -6"><span class='ocrx_word' id='word_1_3' title='bbox 70 282 91 293; x_wconf 48' lang='grc' dir='ltr'><em>,Ν</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1276 1426 1879 2308">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1276 1426 1879 2308">
+     <span class='ocr_line' id='line_1_3' title="bbox 1276 1426 1879 2308"><span class='ocrx_word' id='word_1_4' title='bbox 1276 1426 1879 2308; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 309 3178 341 3190">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 309 3178 341 3190">
+     <span class='ocr_line' id='line_1_4' title="bbox 309 3178 341 3190; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 309 3178 341 3190; x_wconf 59' lang='lat' dir='ltr'><em>Q(</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
